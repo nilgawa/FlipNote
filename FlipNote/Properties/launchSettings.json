@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FlipNote": {
+      "commandName": "Project",
+      "commandLineArgs": "-i ./in.txt -o ./out.txt -v arg1=0001 arg2=0002"
+    }
+  }
+}
